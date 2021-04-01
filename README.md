@@ -1,25 +1,33 @@
-## Awesome Testcase
+# Awesome Testcase
 
 A list shown the applications used in the research projects.
 
-### Edge Computing
+## Edge Computing
 
-#### Video Analytics
+### Video Analytics
 
-- Streamer 
+- [Streamer](https://github.com/viscloud/saf): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
 
-#### Industrial Automation
+P.S. currently linked to official SAF version, since not sure the legacy version is allowed to share or not.
 
-- Robotic OS
+### Industrial Automation
 
-#### Content Delivery Network
+- [Robotic OS]():
 
-- Apache Traffic Control
+### Content Delivery Network
 
-#### Core Network
+- [Apache Traffic Control]():
 
-##### 4G
+### Core Network
 
-- NextEPC
-- SrsLTE
+#### 4G
 
+- [NextEPC]():
+- [SrsLTE]():
+
+## Machine Learning
+
+- [Tensorflow Model Builder](https://github.com/carol-hsu/tensorflow_model_builder)
+
+
+## Memory System
