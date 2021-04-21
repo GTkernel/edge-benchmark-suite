@@ -1,4 +1,4 @@
-# Awesome Testcase
+# Awesome Benchmark
 
 A list shown the applications used in the research projects.
 
@@ -6,26 +6,26 @@ A list shown the applications used in the research projects.
 
 ### Video Analytics
 
-- [Streamer](https://github.com/viscloud/saf): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
+- [Streamer](https://github.gatech.edu/kernel-benchmark-suite/streamer): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
 TODO: currently linked to official SAF version, since not sure the legacy version is allowed to share or not.
 
 ### Industrial Automation
 
-- [Robotic OS](https://github.com/carol-hsu/ros_pubsub): A popular application used in robotic and IoT industry. 
+- [Robotic OS](https://github.gatech.edu/kernel-benchmark-suite/ros): A popular application used in robotic and IoT industry. 
 This repo containerized the simple pub-sub example.
 
 ### Content Delivery Network
 
-- [Apache Traffic Control](https://github.com/carol-hsu/trafficcontrol/tree/k8s-no-dns/infrastructure/cdn-in-a-box/k8s): The on-premise CDN system. This repo covers the configuration files of Kubernetes. To running an Apache CDN, you in k8s, you don't need to create an additional DNS server.
+- [Apache Traffic Control](https://github.gatech.edu/kernel-benchmark-suite/trafficcontrol): The on-premise CDN system. This repo covers the configuration files of Kubernetes. To running an Apache CDN, you in k8s, you don't need to create an additional DNS server.
 
 ### Core Network
 
 #### 4G
 
-- [NextEPC](https://github.gatech.edu/MEC/nextepc): Open sourced LTE testbed. Containerized and k8s-friendly. 
+- [NextEPC](https://github.gatech.edu/kernel-benchmark-suite/nextepc): Open sourced LTE testbed. Containerized and k8s-friendly. 
 In our project, we only use the RAN core network of NextEPC.
 TODO: currently linked to a private team/organization, still need to fix some configurations.
-- [SrsLTE](https://github.gatech.edu/MEC/srsLTE): Same as NextEPC. In our project, we only used the eNB and UE parts of SrsLTE.
+- [SrsLTE](https://github.gatech.edu/kernel-benchmark-suite/srslte): Same as NextEPC. In our project, we only used the eNB and UE parts of SrsLTE.
 TODO: currently linked to a private team/organization, still need to fix some configurations.
 
 ## Machine Learning
