@@ -4,6 +4,8 @@ A list shown the applications used in the research projects.
 
 ## Edge Computing
 
+- [Secure MPC](https://github.gatech.edu/kernel-benchmark-suite/securempc-benchmark): Benchmarks for [EMP-Toolkit](https://github.com/emp-toolkit/emp-tool)'s [AGMPC](https://github.com/emp-toolkit/emp-agmpc), a maliciously secure BMR-style protocol tolerating an arbitrary number of corruptions.
+
 ### Video Analytics
 
 - [Streamer](https://github.gatech.edu/kernel-benchmark-suite/streamer): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
