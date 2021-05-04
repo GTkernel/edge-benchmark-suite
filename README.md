@@ -15,6 +15,10 @@ TODO: currently linked to official SAF version, since not sure the legacy versio
 
 - [YOLOv3 Tensorflow](https://github.gatech.edu/kernel-benchmark-suite/yolov3-tf2): YOLOv3 application ported to python TensorFlow2. YOLOv3 is for real-time object detection developed by Joseph Redmon, a U of W student.
 
+### Video 360
+
+- [Video 360](https://github.gatech.edu/kernel-benchmark-suite/video360): A framework developed by Fraunhofer Heinrich Hertz Institute. JavaScript implementation of MPEG-OMAF viewport-dependent video profile with HEVC tiles.
+
 ### Industrial Automation
 
 - [Robotic OS](https://github.gatech.edu/kernel-benchmark-suite/ros): A popular application used in robotic and IoT industry. 
