@@ -13,6 +13,8 @@ A list shown the applications used in the research projects.
 - [Streamer](https://github.gatech.edu/kernel-benchmark-suite/streamer): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
 TODO: currently linked to official SAF version, since not sure the legacy version is allowed to share or not.
 
+- [YOLOv3 Tensorflow](https://github.gatech.edu/kernel-benchmark-suite/yolov3-tf2): YOLOv3 application ported to python TensorFlow2. YOLOv3 is for real-time object detection developed by Joseph Redmon, a U of W student.
+
 ### Industrial Automation
 
 - [Robotic OS](https://github.gatech.edu/kernel-benchmark-suite/ros): A popular application used in robotic and IoT industry. 
