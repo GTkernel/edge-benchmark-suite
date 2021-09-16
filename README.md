@@ -32,9 +32,7 @@ This repo containerized the simple pub-sub example.
 
 - [NextEPC](https://github.com/GTkernel/nextepc): Open sourced LTE testbed. Containerized and k8s-friendly. 
 In our project, we only use the RAN core network of NextEPC.
-TODO: currently linked to a private team/organization, still need to fix some configurations.
-- [SrsLTE](https://github.com/GTkernel/srslte): Same as NextEPC. In our project, we only used the eNB and UE parts of SrsLTE.
-TODO: currently linked to a private team/organization, still need to fix some configurations.
+- [SrsRAN](https://github.com/GTkernel/srsRAN): Same as NextEPC. In our project, we only used the eNB and UE parts of SrsRAN.
 
 ### 5G
 
