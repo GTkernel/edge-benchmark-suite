@@ -3,7 +3,8 @@
 A list shown the applications used in the research projects.
 
 ## Edge Computing
-
+[IOTCOMMS](https://github.gatech.edu/kernel-benchmark-suite/iotcomms): An framework used for creating IoT application with a variety of different workload configurations.
+ 
 ### Cryptography
 
 - [Secure MPC](https://github.gatech.edu/kernel-benchmark-suite/securempc-benchmark): Benchmarks for [EMP-Toolkit](https://github.com/emp-toolkit/emp-tool)'s [AGMPC](https://github.com/emp-toolkit/emp-agmpc), a maliciously secure BMR-style protocol tolerating an arbitrary number of corruptions.
