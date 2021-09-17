@@ -3,7 +3,7 @@
 A list shown the applications used in the research projects.
 
 ### Edge Computing
-[IOTCOMMS](https://github.gatech.edu/kernel-benchmark-suite/iotcomms): An framework used for creating IoT application with a variety of different workload configurations. This framework aims to caputure the diverse nature of IoT applications in every stage - the workload generator, the tranport layer protocols and the could server side components.
+- [IOTCOMMS](https://github.gatech.edu/kernel-benchmark-suite/iotcomms): An framework used for creating IoT application with a variety of different workload configurations. This framework aims to caputure the diverse nature of IoT applications in every stage - the workload generator, the tranport layer protocols and the could server side components.
  
 ### Cryptography
 
