@@ -6,6 +6,9 @@ A list shown the applications used in the research projects.
 
 - [Secure MPC](https://github.com/GTkernel/secure-mpc): Benchmarks for [EMP-Toolkit](https://github.com/emp-toolkit/emp-tool)'s [AGMPC](https://github.com/emp-toolkit/emp-agmpc), a maliciously secure BMR-style protocol tolerating an arbitrary number of corruptions.
 
+## IoT
+- [IOTCOMMS](https://github.gatech.edu/GTkernel/iotcomms): An framework used for creating IoT application with a variety of different workload configurations. This framework aims to caputure the diverse nature of IoT applications in every stage - the workload generator, the tranport layer protocols and the could server side components.
+
 ## Video Analytics
 
 - [Streamer](https://github.com/GTkernel/streamer): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
