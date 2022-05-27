@@ -11,6 +11,10 @@ A list shown the applications used in the research projects.
 
 ## Video Analytics
 
+- [Object Detection TensorFlow Serving](https://github.com/GTkernel/object-detector-tf-serve) 
+This ML model serving platform based on TensorFlow Serving, we refered to this public [repo](https://github.com/LanderMoerkerke/camera-feed-object-detector-tf-serve) and add our deployment for MEC benchmarking.
+Checking the directory of `./k8s` for deployment details.
+
 - [Streamer](https://github.com/GTkernel/streamer): A framework developed by CMU, used for building pipelines from video processing functional blocks. Streamer is designed to work with ML inference process, the analytics part.
 TODO: currently linked to official SAF version, since not sure the legacy version is allowed to share or not.
 
@@ -18,7 +22,8 @@ TODO: currently linked to official SAF version, since not sure the legacy versio
 
 ## Video 360
 
-- [Video 360](https://github.com/GTkernel/video360): A framework developed by Fraunhofer Heinrich Hertz Institute. JavaScript implementation of MPEG-OMAF viewport-dependent video profile with HEVC tiles.
+- [Video 360](https://github.com/GTkernel/omaf-video-360): A framework developed by Fraunhofer Heinrich Hertz Institute. JavaScript implementation of MPEG-OMAF viewport-dependent video profile with HEVC tiles.
+We add containerized deploying methods as for our MEC benchmarking.
 
 ## Industrial Automation
 
